@@ -1,0 +1,7 @@
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter9-Repo\WorkingWithFilesAndFolders\WorkingWithFilesAndFolders\bin\Debug\WorkingWithFilesAndFolders.exe.config
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter9-Repo\WorkingWithFilesAndFolders\WorkingWithFilesAndFolders\bin\Debug\WorkingWithFilesAndFolders.exe
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter9-Repo\WorkingWithFilesAndFolders\WorkingWithFilesAndFolders\bin\Debug\WorkingWithFilesAndFolders.pdb
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter9-Repo\WorkingWithFilesAndFolders\WorkingWithFilesAndFolders\obj\Debug\WorkingWithFilesAndFolders.csprojAssemblyReference.cache
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter9-Repo\WorkingWithFilesAndFolders\WorkingWithFilesAndFolders\obj\Debug\WorkingWithFilesAndFolders.csproj.CoreCompileInputs.cache
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter9-Repo\WorkingWithFilesAndFolders\WorkingWithFilesAndFolders\obj\Debug\WorkingWithFilesAndFolders.exe
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter9-Repo\WorkingWithFilesAndFolders\WorkingWithFilesAndFolders\obj\Debug\WorkingWithFilesAndFolders.pdb
